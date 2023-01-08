@@ -12,7 +12,7 @@ My purpose in creating this software is to provide a basic example of the functi
 
 # Development Environment
 
-I used Visual Studio Code to create this python file.
+I used Visual Studio Code to create this file.
 
 This program was written in python.
 
